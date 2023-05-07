@@ -1,6 +1,6 @@
-# CSC431-team-05
+# CSC431-team-05: Above the Grave
 
-Introduction to Software Engineering
+This team project is for CSC 431: Introduction to Software Engineering
 
 Requirements Engineer: Drew Barnes 
 
